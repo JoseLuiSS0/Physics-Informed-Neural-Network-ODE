@@ -67,3 +67,11 @@ This is an academic project, not original research
 The full explanation, derivations, and implementation details are included inside the Jupyter notebook
 
 Notebook originally developed and executed in Kaggle
+
+## How to run
+
+This project was developed in Kaggle.
+To run locally:
+
+pip install -r requirements.txt
+jupyter notebook physics-informed-neural-network-pinn.ipynb
